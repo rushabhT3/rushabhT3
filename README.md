@@ -13,7 +13,7 @@ Javascript, Python, ExpressJS, NodeJS...
 
 #### Question 1: How to make such README.md file or the about section for the Github page
 
-Answer 1: Use readme.so website for the same
+Answer 1: Use readme.so website for the README.md file and make a repository of same name as your username and then paste the content from the website in the file
 
 
 
