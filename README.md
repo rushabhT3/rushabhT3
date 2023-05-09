@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-# Hi, I'm Rushabh:)
+# Hi, I'm Rushabh!
 I am a currently learning web developement. 
 
 
@@ -13,8 +13,7 @@ Javascript, Python, ExpressJS, NodeJS...
 
 #### Question 1: How to make such README.md file or the about section for the Github page on your github homepage?
 
-Answer 1: Use readme.so website for the README.md file gerneration. Now make a repository of same name as your username then, paste the content from the website in the README.md file. Whilst doing so you have to make it public and add the README.md file
-
+Answer 1: Use readme.so website: for README.md file generation. Now make a repository of same name as your username, add a README.md file there and add the contents that you got from the readme.so website.
 
 
 ## Author
