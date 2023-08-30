@@ -15,12 +15,13 @@ Javascript, Python, ExpressJS, NodeJS...
 
 Answer 1: Use [readme.so](https://readme.so/) website: for README.md file generation. Now make a repository of same name as your username, add a README.md file there the one you got from the readme.so website.-->
 
-![Zorro_(Diego_de_la_Vega)](https://github.com/rushabhT3/rushabhT3/assets/41021094/133fe953-1e88-4b28-a462-dcb57b3b2545)
+
 
 
 ## Author
 
 - [@Rushabh Trivedi](https://github.com/rushabhT3)
+- ![Zorro_(Diego_de_la_Vega)](https://github.com/rushabhT3/rushabhT3/assets/41021094/133fe953-1e88-4b28-a462-dcb57b3b2545)
 
 
 
