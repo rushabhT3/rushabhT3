@@ -9,11 +9,11 @@ I am a currently learning web developement.
 Javascript, Python, ExpressJS, NodeJS...
 
 
-## FAQs
+<!--## FAQs
 
 #### Question 1: How to make such README.md file or the about section for the Github page on your github homepage?
 
-Answer 1: Use [readme.so](https://readme.so/) website: for README.md file generation. Now make a repository of same name as your username, add a README.md file there the one you got from the readme.so website.
+Answer 1: Use [readme.so](https://readme.so/) website: for README.md file generation. Now make a repository of same name as your username, add a README.md file there the one you got from the readme.so website.-->
 
 
 ## Author
