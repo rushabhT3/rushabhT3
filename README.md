@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 # Hi, I'm Rushabh!
-I am a currently learning web developement. 
+I am currently learning web development. 
 
 
 
