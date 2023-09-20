@@ -21,7 +21,6 @@ Answer 1: Use [readme.so](https://readme.so/) website: for README.md file genera
 ## Author
 
 - [@Rushabh Trivedi](https://github.com/rushabhT3)
-![Zorro_(Diego_de_la_Vega)](https://github.com/rushabhT3/rushabhT3/assets/41021094/133fe953-1e88-4b28-a462-dcb57b3b2545)
 ![hehe-cat-hehe](https://github.com/rushabhT3/rushabhT3/assets/41021094/fbe37d83-0817-405e-9b20-4ea0fa18ba83)
 ![high-five](https://github.com/rushabhT3/rushabhT3/assets/41021094/00920c10-d99f-4f61-9da0-0ba2565556f2)
 ![desktop-wallpaper-samurai-doge-3840x2160-doge-samurai](https://github.com/rushabhT3/rushabhT3/assets/41021094/fb1a0018-24b0-4a2a-8247-47b30c327836)
