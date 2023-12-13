@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-### Hi there, I'm Rushabh! 👋
+### Hello there, I'm Rushabh! 👋
 
 I'm a passionate web developer on a journey of continuous learning and exploration. My experience in web development has led me to create remarkable projects, both on the backend and the frontend.
 
