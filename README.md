@@ -67,7 +67,7 @@ A ditto copy of the Expense Tracker App, now enhanced with the brilliance of Mon
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rushabhT3/rushabhT3/assets/41021094/90cd65ac-f3c9-4ad5-888b-72e882f5b524)
 
 ## Author
 
