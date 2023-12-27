@@ -19,7 +19,7 @@ Feel free to explore my projects and reach out if you share the same passion for
 ## 🔧 Skills
 
 - 💻 Python, JavaScript
-- 🌐 HTML, CSS, React, TailwindCSS
+- 🌐 HTML, CSS, React, Next.js, TailwindCSS
 - 🛢️ NodeJS, ExpressJS, MongoDB, SQL
 - 🚀 AWS, Git, GitHub, VSCode
 
@@ -31,6 +31,24 @@ Feel free to explore my projects and reach out if you share the same passion for
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushabhtrivedi03@gmail.com)
 
 ## 👨‍💻 Projects
+
+### Full Stack Mailbox Client Application
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mailBoxClientReact)
+An innovative full-stack mailbox client application designed for efficient email management. This application seamlessly integrates the backend and frontend components to provide a comprehensive solution for handling emails.
+
+**Key Features:**
+- Cross-Origin Resource Sharing (CORS): Implemented CORS for secure communication between frontend and backend.
+- Express Framework: Utilized Express.js for building a robust and scalable backend server.
+- JWT Authentication: Ensured secure user authentication through the implementation of JSON Web Tokens (JWT).
+- MySQL Database: Employed MySQL2 and Sequelize for efficient database management and storage.
+- Nodemon for Development: Integrated Nodemon for automatic server restarts during development for increased productivity.
+
+**Frontend Highlights:**
+- React for Dynamic UI: Developed the frontend using React for a dynamic and responsive user interface.
+- React Router: Implemented React Router for smooth navigation within the application.
+- Axios for API Calls: Utilized Axios for making asynchronous HTTP requests to the backend.
+- Draft.js for Rich Text Editing: Integrated Draft.js for a sophisticated text editing experience.
+- Tailwind CSS: Enhanced styling with Tailwind CSS for a modern and visually appealing design.
 
 ### Expense Tracker Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/node.js/tree/main/Express.Js/AWSapp)
@@ -54,6 +72,23 @@ Join our group chat app to connect with friends and family in real-time!
 - Built with Express.js: A robust backend framework for seamless communication.
 - VanillaJS and Dependencies: User-friendly front-end powered by Vanilla JavaScript and various libraries.
 
+### Todo App with Next.js and MongoDB
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/nextjs-todo-app)
+
+Create, manage, and organize your tasks efficiently with this Todo App built using Next.js and MongoDB. The combination of a powerful frontend framework and a versatile NoSQL database ensures a seamless user experience.
+
+**Key Features:**
+- Next.js Development: Leveraged Next.js for building a performant and scalable frontend.
+- MongoDB Integration: Utilized MongoDB for flexible and scalable data storage.
+- Axios for API Requests: Integrated Axios for making asynchronous HTTP requests to interact with the backend.
+- Tailwind CSS Styling: Enhanced the user interface with Tailwind CSS for a modern and clean design.
+
+**Dependencies:**
+- Next.js: The React framework for building server-rendered applications.
+- MongoDB: A NoSQL database for flexible and scalable data storage.
+- Axios: A promise-based HTTP client for making API requests.
+- Tailwind CSS: A utility-first CSS framework for styling the application.
+
 ### Mongoose Expense Tracker
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mongoose-Expense-Tracker)
 A ditto copy of the Expense Tracker App, now enhanced with the brilliance of Mongoose!
@@ -70,6 +105,7 @@ A ditto copy of the Expense Tracker App, now enhanced with the brilliance of Mon
 ![App Screenshot](https://github.com/rushabhT3/rushabhT3/assets/41021094/90cd65ac-f3c9-4ad5-888b-72e882f5b524)
 ![Screenshot (636)](https://github.com/rushabhT3/rushabhT3/assets/41021094/4fe83714-1ccd-413c-944c-e31bf7888f28)
 ![Screenshot (635)](https://github.com/rushabhT3/rushabhT3/assets/41021094/011799f2-f87f-496d-8176-bf6a07000ce3)
+![Screenshot (644)](https://github.com/rushabhT3/rushabhT3/assets/41021094/23e1698c-5bfe-47ca-858e-3076d6f0baae)
 
 
 ## Author
