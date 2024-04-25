@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-### Hello there, I'm Rushabh (MERN Developer)! 👋
+### Hello there, I'm Rushabh (Full Stack Developer)! 👋
 
 I'm a passionate web developer on a journey of continuous learning and exploration. My experience in web development has led me to create remarkable projects, both on the backend and the frontend.
 
