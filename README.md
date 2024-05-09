@@ -18,7 +18,7 @@ Feel free to explore my projects and reach out if you share the same passion for
 
 ## 🔧 Skills
 
-- 💻 Python, JavaScript
+- 💻 Python, JavaScript, Go, TypeSript
 - 🌐 HTML, CSS, React, Next.js, TailwindCSS
 - 🛢️ NodeJS, ExpressJS, MongoDB, SQL
 - 🚀 AWS, Git, GitHub, VSCode
