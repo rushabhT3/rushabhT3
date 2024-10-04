@@ -73,6 +73,10 @@ A comprehensive animal management system with a user-friendly interface for addi
 
 A modern and responsive portfolio website showcasing my projects and skills.
 
+![image](https://github.com/user-attachments/assets/8eb22a9f-171b-4d84-9bcf-f4a31348813f)
+![image](https://github.com/user-attachments/assets/2e58e7ae-ce95-4a05-a87c-a3e4528952f6)
+
+
 **Key Features:**
 - Built with Next.js and TypeScript for robustness and scalability
 - Styled with Tailwind CSS for a clean and adaptive design
