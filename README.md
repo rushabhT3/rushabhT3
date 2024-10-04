@@ -20,8 +20,8 @@ Feel free to explore my projects and reach out if you share the same passion for
 
 - 💻 Python, JavaScript, Go, TypeSript
 - 🌐 HTML, CSS, React, Next.js, TailwindCSS
-- 🛢️ NodeJS, ExpressJS, MongoDB, SQL
-- 🚀 AWS, Git, GitHub, VSCode
+- 🛢️ NodeJS, ExpressJS, Django, FastAPI, MongoDB, SQL
+- 🚀 AWS, Docker, Git, GitHub, VSCode
 
 ## 🔗 Links/ Contact Me!:
 
