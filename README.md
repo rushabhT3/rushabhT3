@@ -40,7 +40,7 @@ An innovative full-stack mailbox client application designed for efficient email
 - Styled with Tailwind CSS
 
 ### Multi-Column To-Do App with Drag and Drop Functionality
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/Multi-Column-To-Do-App)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/buttonshift-assignment)
 
 A dynamic Todo application with a drag-and-drop interface, built using Next.js and MongoDB.
 
