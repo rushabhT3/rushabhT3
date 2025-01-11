@@ -1,21 +1,37 @@
-# 🚀 Rushabh Trivedi - Full Stack Developer
-
+# 🚀 Rushabh Trivedi - Software Developer
 ## 👋 About Me
+Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passion for building scalable web applications and exploring new technologies. With a background in Electrical Engineering and a transition into software development, I bring a unique perspective to problem-solving and system design.
 
-Hello there! I'm Rushabh, a passionate Full Stack Developer on a journey of continuous learning and exploration. My experience in web development has led me to create remarkable projects, both on the backend and the frontend.
+- 💼 **Currently:** Working at Polynomial AI on tech stack migration and ML implementation
+- 🎓 **Education:** B.Tech in Electrical Engineering from Government College of Engineering Amravati
+- 💻 **Tech Focus:** Full stack development with expertise in both modern frontend and backend technologies
+- 🌟 **Strengths:** Building scalable applications, implementing ML models, and developing robust APIs
+- 🔄 **Growth:** Continuously expanding my skill set through hands-on projects and certifications
 
-- 💻 **Tech Enthusiast:** Constantly learning and improving my skills in web development.
-- 🧠 **Curious Mind:** Interested in machine learning and game development.
-- 🌟 **Passion:** Building things, solving problems, and bringing ideas to life through code.
-- 👔 **Career:** Actively seeking new opportunities in web development.
-- 🚀 **Collaboration:** Open to connecting and working with like-minded individuals.
+## 🔧 Technical Skills
+- 💻 **Languages:** Python, JavaScript, Go, TypeScript
+- 🌐 **Frontend:** React, Next.js, TailwindCSS
+- ⚙️ **Backend:** Node.js, Express, Django, FastAPI
+- 🛢️ **Databases:** MongoDB, PostgreSQL, MySQL
+- 🚀 **DevOps & Tools:** AWS, Docker, Git, VS Code
 
-## 🔧 Skills
+## 🏢 Professional Experience
+Currently contributing to Polynomial AI's tech ecosystem by:
+- 🔄 Leading migration from Flask/MongoDB to Django/PostgreSQL
+- 🤖 Implementing machine learning models for intelligence systems
+- 🛠️ Developing and maintaining APIs and system architecture
 
-- 💻 Python, JavaScript, Go, TypeScript
-- 🌐 HTML, CSS, React, Next.js, TailwindCSS
-- 🛢️ NodeJS, ExpressJS, Django, FastAPI, MongoDB, SQL
-- 🚀 AWS, Docker, Git, GitHub, VSCode
+## 🎯 Recent Projects
+Created multiple full-stack applications including:
+- 📧 Email Management System
+- 💬 Real-time Group Chat Application
+- 💰 Expense Tracking Solutions
+- ✅ Multi-Column Todo App with Drag & Drop
+- 🐾 Animal Lover Application
+
+## 📜 Certifications
+- 🔗 Hashgraph Developer - The Hashgraph Association
+- 🌐 Fundamentals of Digital Marketing - Google Digital Garage
 
 ## 🔗 Connect With Me
 
