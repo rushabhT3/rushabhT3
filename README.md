@@ -100,9 +100,10 @@ A dynamic Todo application with a drag-and-drop interface, built using Next.js a
 
 A comprehensive animal management system with a user-friendly interface for adding and favoriting animals.
 
-![image](https://github.com/user-attachments/assets/66893f8a-1079-44b6-9db8-982aff1e2812)
-
-![Screenshot (841)](https://github.com/user-attachments/assets/19042cab-4767-488a-95f3-3698a8870112)
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/66893f8a-1079-44b6-9db8-982aff1e2812" alt="Animal Lover App Screenshot 1" width="48%">
+    <img src="https://github.com/user-attachments/assets/19042cab-4767-488a-95f3-3698a8870112" alt="Animal Lover App Screenshot 2" width="48%">
+</div>
 
 **Key Features:**
 - User authentication and authorization
@@ -121,9 +122,10 @@ A comprehensive animal management system with a user-friendly interface for addi
 
 A modern and responsive portfolio website showcasing my projects and skills.
 
-![image](https://github.com/user-attachments/assets/8eb22a9f-171b-4d84-9bcf-f4a31348813f)
-
-![image](https://github.com/user-attachments/assets/2e58e7ae-ce95-4a05-a87c-a3e4528952f6)
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/8eb22a9f-171b-4d84-9bcf-f4a31348813f" alt="Portfolio Screenshot 1" width="48%">
+    <img src="https://github.com/user-attachments/assets/2e58e7ae-ce95-4a05-a87c-a3e4528952f6" alt="Portfolio Screenshot 2" width="48%">
+</div>
 
 
 **Key Features:**
