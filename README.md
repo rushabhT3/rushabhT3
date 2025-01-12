@@ -8,6 +8,8 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 - 🌟 **Strengths:** Building scalable applications, implementing ML models, and developing robust APIs
 - 🔄 **Growth:** Continuously expanding my skill set through hands-on projects and certifications
 
+---
+
 ## 🔧 Technical Skills
 
 | Category | Technologies |
@@ -18,9 +20,11 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 | 🛢️ Databases | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) |
 | 🚀 DevOps & Tools | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
 
+---
+
 ## 🏢 Professional Experience
 
-### Software Developer L1 at Polynomial AI
+### 1. Software Developer L1 at Polynomial AI
 **Location:** Surat, Gujarat, India  
 **Duration:** November 2024 - Present
 
@@ -28,6 +32,8 @@ Currently contributing to Polynomial AI's tech ecosystem by:
 - 🔄 Leading migration from Flask/MongoDB to Django/PostgreSQL
 - 🤖 Implementing machine learning models for intelligence systems
 - 🛠️ Developing and maintaining APIs and system architecture
+
+---
 
 ## 🎯 Recent Projects
 Created multiple full-stack applications including:
@@ -37,9 +43,11 @@ Created multiple full-stack applications including:
 - ✅ Multi-Column Todo App with Drag & Drop
 - 🐾 Animal Lover Application
 
+
 ## 📜 Certifications
 - 🔗 Hashgraph Developer - The Hashgraph Association
 - 🌐 Fundamentals of Digital Marketing - Google Digital Garage
+
 
 ## 🌟 Connect With Me
 
