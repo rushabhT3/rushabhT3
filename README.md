@@ -186,7 +186,7 @@ Created multiple full-stack applications including:
 
 ## 👨‍💻 Projects
 
-### Full Stack Mailbox Client Application
+### 📧 Full Stack Mailbox Client Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mailBoxClientReact)
 
 An innovative full-stack mailbox client application designed for efficient email management.
@@ -199,7 +199,7 @@ An innovative full-stack mailbox client application designed for efficient email
 - Rich text editing with Draft.js
 - Styled with Tailwind CSS
 
-### Multi-Column To-Do App with Drag and Drop Functionality
+### 📝 Multi-Column To-Do App with Drag and Drop Functionality
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/buttonshift-assignment)
 
 A dynamic Todo application with a drag-and-drop interface, built using Next.js and MongoDB.
@@ -213,7 +213,7 @@ A dynamic Todo application with a drag-and-drop interface, built using Next.js a
 
 **Technologies:** TypeScript, Next.js, MongoDB, @hello-pangea/dnd, Tailwind CSS, shadcn/ui, Lucide React
 
-### Full Stack Animal Lover App
+### 🐾 Full Stack Animal Lover App
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/fastapi-react-try/tree/main/auth%20app)
 
 A comprehensive animal management system with a user-friendly interface for adding and favoriting animals.
@@ -232,7 +232,7 @@ A comprehensive animal management system with a user-friendly interface for addi
 
 **Technologies:** FastAPI, React.js, Tailwind CSS, React Router, JWT, SQLAlchemy ORM, Pydantic, Lucide React
 
-### Portfolio Website
+### 💼 Portfolio Website
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/rushabh-portfolio/tree/main/new-project)
 
 A modern and responsive portfolio website showcasing my projects and skills.
@@ -251,7 +251,7 @@ A modern and responsive portfolio website showcasing my projects and skills.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, react-icons, framer-motion, lucide-react
 
-### Expense Tracker Application
+### 💰 Expense Tracker Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/node.js/tree/main/Express.Js/AWSapp)
 
 A brilliant app for tracking your expenses, leveraging AWS infrastructure for global accessibility.
@@ -262,7 +262,7 @@ A brilliant app for tracking your expenses, leveraging AWS infrastructure for gl
 - Email notifications for important updates
 - AWS integration for scalability and reliability
 
-### Group Chat Application
+### 💬 Group Chat Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/ChatApp)
 
 Connect with friends and family in real-time with this group chat application.
@@ -275,7 +275,7 @@ Connect with friends and family in real-time with this group chat application.
 - Express.js backend
 - VanillaJS frontend with various dependencies
 
-### Todo App with Next.js and MongoDB
+### ✅ Todo App with Next.js and MongoDB
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/nextjs-todo-app)
 
 Efficiently manage your tasks with this Todo App built using Next.js and MongoDB.
@@ -286,7 +286,7 @@ Efficiently manage your tasks with this Todo App built using Next.js and MongoDB
 - Axios for API requests
 - Tailwind CSS for modern styling
 
-### Mongoose Expense Tracker
+### 📊 Mongoose Expense Tracker
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mongoose-Expense-Tracker)
 
 An enhanced version of the Expense Tracker App, now using Mongoose for improved data management.
