@@ -153,6 +153,10 @@ A brilliant app for tracking your expenses, leveraging AWS infrastructure for gl
 - Email notifications for important updates
 - AWS integration for scalability and reliability
 
+⚡ **Tech Stack:** Express.js, SQL, AWS, JWT, Bcrypt, Sequelize, Brevo
+
+---
+
 ### 💬 Group Chat Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/ChatApp)
 
@@ -165,6 +169,8 @@ Connect with friends and family in real-time with this group chat application.
 - Encrypted database storage
 - Express.js backend
 - VanillaJS frontend with various dependencies
+
+⚡ **Tech Stack:** Express.js, MySQL, aws-sdk, Socket.io, bcrypt, cors, dotenv, multer, node-cron, pm2, sequelize
 
 ---
 
@@ -179,6 +185,7 @@ Efficiently manage your tasks with this Todo App built using Next.js and MongoDB
 - Axios for API requests
 - Tailwind CSS for modern styling
 
+⚡ **Tech Stack:**
 ---
 
 ### 📊 Mongoose Expense Tracker
@@ -192,6 +199,8 @@ An enhanced version of the Expense Tracker App, now using Mongoose for improved 
 - Encrypted database storage
 - User-friendly interface
 - Express.js backend
+
+⚡ **Tech Stack:** Express.js, AWS, JWT, Bcrypt, Mongoose (MongoDB), Brevo
 
 ---
 
