@@ -67,6 +67,39 @@ Created multiple full-stack applications including:
 
 ---
 
+## 🏢 Professional Experience
+
+### Software Developer L1 at Polynomial AI
+**Location:** Surat, Gujarat, India  
+**Duration:** November 2024 - Present
+
+At Polynomial AI, I contribute to the company's technology ecosystem through several important initiatives:
+
+#### Technology Migration Project
+I am part of the team working on migrating the company's technology stack from Flask/MongoDB to Django/PostgreSQL. In this project, I contribute to:
+- Development of APIs within the new Django framework
+- Creation of data models for PostgreSQL implementation
+- Supporting the implementation of additional functionalities
+- Assisting with various aspects of the migration process
+
+#### Machine Learning Implementation
+As part of the development team, I contribute to the company's artificial intelligence initiatives by helping implement machine learning models for the intelligence system. My work involves:
+- Supporting the integration of ML models into existing systems
+- Helping maintain and optimize model performance
+- Contributing to the development of supporting infrastructure
+- Collaborating on ML implementations
+
+#### System Development
+I participate in the ongoing development and maintenance of the system by:
+- Contributing to API development and maintenance
+- Following established system design practices
+- Working with team members to implement technical solutions
+- Supporting the overall system architecture
+
+This position represents my current role where I apply my technical skills in both backend development and machine learning to contribute to technological improvements within the organization.
+
+---
+
 ## 👨‍💻 Projects
 
 ### 📧 Full Stack Mailbox Client Application
@@ -185,7 +218,8 @@ Efficiently manage your tasks with this Todo App built using Next.js and MongoDB
 - Axios for API requests
 - Tailwind CSS for modern styling
 
-⚡ **Tech Stack:**
+⚡ **Tech Stack:** Next.js, MongoDB
+
 ---
 
 ### 📊 Mongoose Expense Tracker
