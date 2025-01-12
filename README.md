@@ -19,6 +19,11 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 | 🚀 DevOps & Tools | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
 
 ## 🏢 Professional Experience
+
+### Software Developer L1 at Polynomial AI
+**Location:** Surat, Gujarat, India  
+**Duration:** November 2024 - Present
+
 Currently contributing to Polynomial AI's tech ecosystem by:
 - 🔄 Leading migration from Flask/MongoDB to Django/PostgreSQL
 - 🤖 Implementing machine learning models for intelligence systems
@@ -48,10 +53,6 @@ Created multiple full-stack applications including:
 ---
 
 ## 🏢 Professional Experience
-
-### Software Developer L1 at Polynomial AI
-**Location:** Surat, Gujarat, India  
-**Duration:** November 2024 - Present
 
 At Polynomial AI, I contribute to the company's technology ecosystem through several important initiatives:
 
