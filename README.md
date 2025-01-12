@@ -199,6 +199,8 @@ An innovative full-stack mailbox client application designed for efficient email
 - Rich text editing with Draft.js
 - Styled with Tailwind CSS
 
+---
+
 ### 📝 Multi-Column To-Do App with Drag and Drop Functionality
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/buttonshift-assignment)
 
@@ -211,7 +213,9 @@ A dynamic Todo application with a drag-and-drop interface, built using Next.js a
 - Enhanced interactions using shadcn/ui
 - Iconic visuals with Lucide React
 
-**Technologies:** TypeScript, Next.js, MongoDB, @hello-pangea/dnd, Tailwind CSS, shadcn/ui, Lucide React
+⚡ **Tech Stack:** TypeScript, Next.js, MongoDB, @hello-pangea/dnd, Tailwind CSS, shadcn/ui, Lucide React
+
+---
 
 ### 🐾 Full Stack Animal Lover App
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/fastapi-react-try/tree/main/auth%20app)
@@ -230,7 +234,9 @@ A comprehensive animal management system with a user-friendly interface for addi
 - Efficient database operations with SQLAlchemy ORM
 - Data validation using Pydantic
 
-**Technologies:** FastAPI, React.js, Tailwind CSS, React Router, JWT, SQLAlchemy ORM, Pydantic, Lucide React
+⚡ **Tech Stack:** FastAPI, React.js, Tailwind CSS, React Router, JWT, SQLAlchemy ORM, Pydantic, Lucide React
+
+---
 
 ### 💼 Portfolio Website
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/rushabh-portfolio/tree/main/new-project)
@@ -249,7 +255,9 @@ A modern and responsive portfolio website showcasing my projects and skills.
 - Iconic visuals using react-icons and lucide-react
 - Deployed and hosted on Vercel for optimal performance
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS, react-icons, framer-motion, lucide-react
+⚡ **Tech Stack:** Next.js, TypeScript, Tailwind CSS, react-icons, framer-motion, lucide-react
+
+---
 
 ### 💰 Expense Tracker Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/node.js/tree/main/Express.Js/AWSapp)
@@ -275,6 +283,8 @@ Connect with friends and family in real-time with this group chat application.
 - Express.js backend
 - VanillaJS frontend with various dependencies
 
+---
+
 ### ✅ Todo App with Next.js and MongoDB
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/nextjs-todo-app)
 
@@ -285,6 +295,8 @@ Efficiently manage your tasks with this Todo App built using Next.js and MongoDB
 - MongoDB for flexible data storage
 - Axios for API requests
 - Tailwind CSS for modern styling
+
+---
 
 ### 📊 Mongoose Expense Tracker
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mongoose-Expense-Tracker)
