@@ -29,9 +29,11 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 **Duration:** November 2024 - Present
 
 Currently contributing to Polynomial AI's tech ecosystem by:
-- 🔄 Leading migration from Flask/MongoDB to Django/PostgreSQL
+- 🔄 Contributing to migration from Flask/MongoDB to Django/PostgreSQL
 - 🤖 Implementing machine learning models for intelligence systems
 - 🛠️ Developing and maintaining APIs and system architecture
+
+I'm part of the team working on technology stack migration and machine learning implementation projects, where I help build APIs, create data models, and integrate ML systems to improve our technical infrastructure.
 
 ---
 
@@ -57,35 +59,6 @@ Created multiple full-stack applications including:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushabhtrivedi03@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/u/rushabhtrivedi03/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rushabhtrivedi03)
-
----
-
-## 🏢 Professional Experience
-
-At Polynomial AI, I contribute to the company's technology ecosystem through several important initiatives:
-
-#### Technology Migration Project
-I am part of the team working on migrating the company's technology stack from Flask/MongoDB to Django/PostgreSQL. In this project, I contribute to:
-- Development of APIs within the new Django framework
-- Creation of data models for PostgreSQL implementation
-- Supporting the implementation of additional functionalities
-- Assisting with various aspects of the migration process
-
-#### Machine Learning Implementation
-As part of the development team, I contribute to the company's artificial intelligence initiatives by helping implement machine learning models for the intelligence system. My work involves:
-- Supporting the integration of ML models into existing systems
-- Helping maintain and optimize model performance
-- Contributing to the development of supporting infrastructure
-- Collaborating on ML implementations
-
-#### System Development
-I participate in the ongoing development and maintenance of the system by:
-- Contributing to API development and maintenance
-- Following established system design practices
-- Working with team members to implement technical solutions
-- Supporting the overall system architecture
-
-This position represents my current role where I apply my technical skills in both backend development and machine learning to contribute to technological improvements within the organization.
 
 ---
 
