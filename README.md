@@ -9,13 +9,6 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 - 🔄 **Growth:** Continuously expanding my skill set through hands-on projects and certifications
 
 ## 🔧 Technical Skills
-- 💻 **Languages:** Python, JavaScript, Go, TypeScript
-- 🌐 **Frontend:** React, Next.js, TailwindCSS
-- ⚙️ **Backend:** Node.js, Express, Django, FastAPI
-- 🛢️ **Databases:** MongoDB, PostgreSQL, MySQL
-- 🚀 **DevOps & Tools:** AWS, Docker, Git, VS Code
-
-## 🔧 Technical Skills
 
 ### 💻 Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
