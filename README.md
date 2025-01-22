@@ -148,6 +148,10 @@ A modern and responsive portfolio website showcasing my projects and skills.
 
 A brilliant app for tracking your expenses, leveraging AWS infrastructure for global accessibility.
 
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <img src="https://github.com/rushabhT3/rushabhT3/assets/41021094/90cd65ac-f3c9-4ad5-888b-72e882f5b524" alt="Expense Tracker" width="48%">
+</div>
+
 **Key Features:**
 - JWT and Bcrypt for secure user authentication
 - Sequelize for encrypted database storage
