@@ -212,8 +212,6 @@ An enhanced version of the Expense Tracker App, now using Mongoose for improved 
 
 ## 📸 Screenshots
 
-![Mailbox Client](https://github.com/rushabhT3/rushabhT3/assets/41021094/23e1698c-5bfe-47ca-858e-3076d6f0baae)
-![Expense Tracker](https://github.com/rushabhT3/rushabhT3/assets/41021094/90cd65ac-f3c9-4ad5-888b-72e882f5b524)
 ![Group Chat](https://github.com/rushabhT3/rushabhT3/assets/41021094/4fe83714-1ccd-413c-944c-e31bf7888f28)
 ![Todo App](https://github.com/rushabhT3/rushabhT3/assets/41021094/011799f2-f87f-496d-8176-bf6a07000ce3)
 
