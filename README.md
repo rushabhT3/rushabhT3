@@ -69,6 +69,8 @@ Created multiple full-stack applications including:
 
 An innovative full-stack mailbox client application designed for efficient email management.
 
+![Mailbox Client](https://github.com/rushabhT3/rushabhT3/assets/41021094/23e1698c-5bfe-47ca-858e-3076d6f0baae)
+
 **Key Features:**
 - CORS implementation for secure communication
 - Express.js backend with JWT authentication
