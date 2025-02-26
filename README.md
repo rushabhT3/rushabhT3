@@ -24,16 +24,17 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 
 ## 🏢 Professional Experience
 
-### 1. Software Developer L1 at Polynomial AI
+### **1. Software Developer L1 at Polynomial AI**  
 **Location:** Surat, Gujarat, India  
-**Duration:** November 2024 - Present
+**Duration:** November 2024 - Present  
 
-Currently contributing to Polynomial AI's tech ecosystem by:
-- 🔄 Contributing to migration from Flask/MongoDB to Django/PostgreSQL
-- 🤖 Implementing machine learning models for intelligence systems
-- 🛠️ Developing and maintaining APIs and system architecture
+Currently contributing to Polynomial AI's tech ecosystem by:  
+- 🔄 **Contributing in a large-scale migration project** from Flask/MongoDB to Django/PostgreSQL, including the development and optimization of **50+ Django-based APIs** (both new implementations and enhancements) with PostgreSQL database models.  
+- � **Enhancing system performance** by integrating **Docker** for containerization, **AWS SDK** for cloud services, and **Celery** for asynchronous task management.  
+- 🤖 **Developing machine learning models**, including an **OpenAI CLIP-based model** for document verification, which filters **900+ false documents monthly**, significantly reducing manual workload.  
+- 🛠️ **Building and maintaining APIs** and system architecture to improve technical infrastructure and scalability.  
 
-I'm part of the team working on technology stack migration and machine learning implementation projects, where I help build APIs, create data models, and integrate ML systems to improve our technical infrastructure.
+As part of the core team, I focus on technology stack migration, machine learning implementation, and system optimization to drive efficiency and innovation.  
 
 ---
 
