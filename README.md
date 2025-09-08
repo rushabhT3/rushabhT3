@@ -18,7 +18,18 @@ Hi, I'm Rushabh, a Software Developer, passionate about crafting scalable web ap
 
 # 🏢 Professional Experience
 
-## 1. Python AI/ML Engineer at Polynomial AI
+## 1. Software Developer at Paycio (Coinearth Technologies)
+**Location:** Hyderabad, Telangana, India  
+**Duration:** May 2025 - Present  
+
+Currently working on mobile backend APIs for Paycio (Coinearth Technologies) at scale by:
+
+- 🔄 **Building/optimizing APIs** and system architecture to improve technical infrastructure and scalability.
+- 🛠️ **Integrating Redis, Blockchain** with existing codebase to improve performance and security.
+
+---
+
+## 2. Python AI/ML Engineer at Polynomial AI
 **Location:** Surat, Gujarat, India  
 **Duration:** November 2024 - May 2025  
 
@@ -30,17 +41,6 @@ Currently contributing to Polynomial AI's tech ecosystem by:
 - 🛠️ **Building and maintaining APIs** and system architecture to improve technical infrastructure and scalability.
 
 As part of the core team, I focus on technology stack migration, machine learning implementation, and system optimization to drive efficiency and innovation.
-
----
-
-## 2. Software Developer at Paycio (Coinearth Technologies)
-**Location:** Hyderabad, Telangana, India  
-**Duration:** May 2025 - Present  
-
-Currently working on mobile backend APIs for Paycio (Coinearth Technologies) at scale by:
-
-- 🔄 **Building/optimizing APIs** and system architecture to improve technical infrastructure and scalability.
-- 🛠️ **Integrating Redis, Blockchain** with existing codebase to improve performance and security.
 
 ---
 
