@@ -1,12 +1,6 @@
 # 🚀 Rushabh Trivedi - Software Developer
 ## 👋 About Me
-Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passion for building scalable web applications and exploring new technologies. With a background in Electrical Engineering and a transition into software development, I bring a unique perspective to problem-solving and system design.
-
-- 💼 **Currently:** Working at Polynomial AI on tech stack migration and ML implementation
-- 🎓 **Education:** B.Tech in Electrical Engineering from Government College of Engineering Amravati
-- 💻 **Tech Focus:** Full stack development with expertise in both modern frontend and backend technologies
-- 🌟 **Strengths:** Building scalable applications, implementing ML models, and developing robust APIs
-- 🔄 **Growth:** Continuously expanding my skill set through hands-on projects and certifications
+Hi, I'm Rushabh, a Software Developer, passionate about crafting scalable web applications and diving into AI/ML innovation. I blend a unique problem-solving perspective with full-stack expertise. Currently, I’m working on a blockchain payment application (Paycio) using Express and Postgres, while actively seeking opportunities to transition into Python-based AI/ML roles. My experience in tech stack migration, ML implementation, and robust API development fuels my drive to create impactful, intelligent solutions. Always learning, I’m eager to grow through hands-on Python projects and cutting-edge AI challenges.
 
 ---
 
@@ -22,19 +16,31 @@ Hello there! I'm Rushabh, a Software Developer L1 at Polynomial AI with a passio
 
 ---
 
-## 🏢 Professional Experience
+# 🏢 Professional Experience
 
-### **1. Software Developer L1 at Polynomial AI**  
+## 1. Python AI/ML Engineer at Polynomial AI
 **Location:** Surat, Gujarat, India  
-**Duration:** November 2024 - Present  
+**Duration:** November 2024 - May 2025  
 
-Currently contributing to Polynomial AI's tech ecosystem by:  
-- 🔄 **Contributing in a large-scale migration project** from Flask/MongoDB to Django/PostgreSQL, including the development and optimization of **50+ Django-based APIs** (both new implementations and enhancements) with PostgreSQL database models.  
-- � **Enhancing system performance** by integrating **Docker** for containerization, **AWS SDK** for cloud services, and **Celery** for asynchronous task management.  
-- 🤖 **Developing machine learning models**, including an **OpenAI CLIP-based model** for document verification, which filters **900+ false documents monthly**, significantly reducing manual workload.  
-- 🛠️ **Building and maintaining APIs** and system architecture to improve technical infrastructure and scalability.  
+Currently contributing to Polynomial AI's tech ecosystem by:
 
-As part of the core team, I focus on technology stack migration, machine learning implementation, and system optimization to drive efficiency and innovation.  
+- 🔄 **Contributing in a large-scale migration project** from Flask/MongoDB to Django/PostgreSQL, including the development and optimization of **50+ Django-based APIs** (both new implementations and enhancements) with PostgreSQL database models.
+- ⚡ **Enhancing system performance** by integrating **Docker** for containerization, **AWS SDK** for cloud services, and **Celery** for asynchronous task management.
+- 🤖 **Developing machine learning models**, including an **OpenAI CLIP-based model** for document verification, which filters **900+ false documents monthly**, significantly reducing manual workload.
+- 🛠️ **Building and maintaining APIs** and system architecture to improve technical infrastructure and scalability.
+
+As part of the core team, I focus on technology stack migration, machine learning implementation, and system optimization to drive efficiency and innovation.
+
+---
+
+## 2. Software Developer at Paycio (Coinearth Technologies)
+**Location:** Hyderabad, Telangana, India  
+**Duration:** May 2025 - Present  
+
+Currently working on mobile backend APIs for Paycio (Coinearth Technologies) at scale by:
+
+- 🔄 **Building/optimizing APIs** and system architecture to improve technical infrastructure and scalability.
+- 🛠️ **Integrating Redis, Blockchain** with existing codebase to improve performance and security.
 
 ---
 
