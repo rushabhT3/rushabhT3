@@ -18,7 +18,7 @@ Hi, I'm Rushabh, a Software Developer, passionate about crafting scalable web ap
 
 # 🏢 Professional Experience
 
-## 1. Software Developer at (SDE) – Backend (Paycio and Indoex Applications)**  
+## 1. Software Developer at (SDE) – Backend (Paycio and Indoex Applications)
 **Location:** Hyderabad, Telangana, India  
 **Duration:** June 2025 - Present  
 
