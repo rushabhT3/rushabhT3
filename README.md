@@ -18,14 +18,15 @@ Hi, I'm Rushabh, a Software Developer, passionate about crafting scalable web ap
 
 # 🏢 Professional Experience
 
-## 1. Software Developer at Paycio (Coinearth Technologies)
+## 1. Software Developer at (SDE) – Backend (Paycio and Indoex Applications)**  
 **Location:** Hyderabad, Telangana, India  
-**Duration:** May 2025 - Present  
+**Duration:** June 2025 - Present  
 
-Currently working on mobile backend APIs for Paycio (Coinearth Technologies) at scale by:
-
-- 🔄 **Building/optimizing APIs** and system architecture to improve technical infrastructure and scalability.
-- 🛠️ **Integrating Redis, Blockchain** with existing codebase to improve performance and security.
+Currently building and scaling backend systems for two live fintech platforms — **Paycio** (crypto-fiat payment gateway) and **Indoex** (digital asset trading platform):
+- Designed and developed 50+ high-throughput REST & WebSocket APIs using **Node.js, Express.js, TypeScript, and PostgreSQL**, powering authentication, KYC, multi-currency wallets, deposit/withdrawal flows, and fiat-crypto settlements.
+- Implemented real-time bidirectional communication using **Socket.IO** for live order books, trade execution alerts, and in-app notifications across both products.
+- Integrated and optimized **Redis** as a caching layer, rate limiter, and message broker for background jobs — significantly reducing database load and improving response times under peak traffic.
+- Enhanced system performance, security, and scalability through clean architecture, robust error handling, and efficient database querying in a high-volume financial environment.
 
 ---
 
@@ -129,15 +130,17 @@ A comprehensive animal management system with a user-friendly interface for addi
 ---
 
 ### 💼 Portfolio Website
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/rushabh-portfolio/tree/main/new-project)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/rushabh-portfolio/tree/main/latest-portfolio)
 
 A modern and responsive portfolio website showcasing my projects and skills.
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/8eb22a9f-171b-4d84-9bcf-f4a31348813f" alt="Portfolio Screenshot 1" width="48%">
-    <img src="https://github.com/user-attachments/assets/2e58e7ae-ce95-4a05-a87c-a3e4528952f6" alt="Portfolio Screenshot 2" width="48%">
+    <!-- <img src="https://github.com/user-attachments/assets/8eb22a9f-171b-4d84-9bcf-f4a31348813f" alt="Portfolio Screenshot 1" width="48%"> -->
+    <!-- <img src="https://github.com/user-attachments/assets/2e58e7ae-ce95-4a05-a87c-a3e4528952f6" alt="Portfolio Screenshot 2" width="48%"> -->
+    <img src="https://github.com/user-attachments/assets/ff374056-2a01-477d-8314-f3bcb3c24126" alt="Portfolio Screenshot 1" width="48%">
+    <img src="https://github.com/user-attachments/assets/063cae63-1dac-4ac2-897b-bf14641eb80d" alt="Portfolio Screenshot 1" width="48%">
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa51116c-af5a-4b20-8c03-09b01ecd07e4" />
 </div>
-
 
 **Key Features:**
 - Built with Next.js and TypeScript for robustness and scalability
