@@ -49,8 +49,6 @@ As part of the core team, I focus on technology stack migration, machine learnin
 Created multiple full-stack applications including:
 - 📧 Email Management System
 - 💬 Real-time Group Chat Application
-- 💰 Expense Tracking Solutions
-- ✅ Multi-Column Todo App with Drag & Drop
 - 🐾 Animal Lover Application
 
 
@@ -61,7 +59,7 @@ Created multiple full-stack applications including:
 
 ## 🌟 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rushabh-portfolio-mocha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rushabh-portfolio-iz62.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trivedirushabh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushabhtrivedi03@gmail.com)
@@ -88,22 +86,6 @@ An innovative full-stack mailbox client application designed for efficient email
 - React frontend with React Router and Axios
 - Rich text editing with Draft.js
 - Styled with Tailwind CSS
-
----
-
-### 📝 Multi-Column To-Do App with Drag and Drop Functionality
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/buttonshift-assignment)
-
-A dynamic Todo application with a drag-and-drop interface, built using Next.js and MongoDB.
-
-**Key Features:**
-- Drag-and-drop functionality for task reordering
-- Add, edit, and delete tasks
-- Responsive design with Tailwind CSS
-- Enhanced interactions using shadcn/ui
-- Iconic visuals with Lucide React
-
-⚡ **Tech Stack:** TypeScript, Next.js, MongoDB, @hello-pangea/dnd, Tailwind CSS, shadcn/ui, Lucide React
 
 ---
 
@@ -153,25 +135,6 @@ A modern and responsive portfolio website showcasing my projects and skills.
 
 ---
 
-### 💰 Expense Tracker Application
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/node.js/tree/main/Express.Js/AWSapp)
-
-A brilliant app for tracking your expenses, leveraging AWS infrastructure for global accessibility.
-
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-    <img src="https://github.com/rushabhT3/rushabhT3/assets/41021094/90cd65ac-f3c9-4ad5-888b-72e882f5b524" alt="Expense Tracker" width="48%">
-</div>
-
-**Key Features:**
-- JWT and Bcrypt for secure user authentication
-- Sequelize for encrypted database storage
-- Email notifications for important updates
-- AWS integration for scalability and reliability
-
-⚡ **Tech Stack:** Express.js, SQL, AWS, JWT, Bcrypt, Sequelize, Brevo
-
----
-
 ### 💬 Group Chat Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/ChatApp)
 
@@ -189,45 +152,13 @@ Connect with friends and family in real-time with this group chat application.
 
 ---
 
-### ✅ Todo App with Next.js and MongoDB
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/nextjs-todo-app)
-
-Efficiently manage your tasks with this Todo App built using Next.js and MongoDB.
-
-**Key Features:**
-- Next.js for a performant frontend
-- MongoDB for flexible data storage
-- Axios for API requests
-- Tailwind CSS for modern styling
-
-⚡ **Tech Stack:** Next.js, MongoDB
-
----
-
-### 📊 Mongoose Expense Tracker
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mongoose-Expense-Tracker)
-
-An enhanced version of the Expense Tracker App, now using Mongoose for improved data management.
-
-**Key Features:**
-- Mongoose ODM for efficient data storage
-- JWT authentication for user security
-- Encrypted database storage
-- User-friendly interface
-- Express.js backend
-
-⚡ **Tech Stack:** Express.js, AWS, JWT, Bcrypt, Mongoose (MongoDB), Brevo
-
----
-
 ## 📸 Screenshots
 
 ![Group Chat](https://github.com/rushabhT3/rushabhT3/assets/41021094/4fe83714-1ccd-413c-944c-e31bf7888f28)
-![Todo App](https://github.com/rushabhT3/rushabhT3/assets/41021094/011799f2-f87f-496d-8176-bf6a07000ce3)
 
 
 ## Author
 
 - [@Rushabh Trivedi](https://github.com/rushabhT3)
 
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rushabhT3/count.svg)
