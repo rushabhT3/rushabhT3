@@ -197,5 +197,3 @@ Connect with friends and family in real-time with this group chat application.
 ## Author
 
 - [@Rushabh Trivedi](https://github.com/rushabhT3)
-
-![Visitor Count](https://profile-counter.glitch.me/rushabhT3/count.svg
