@@ -1,6 +1,31 @@
-# 🚀 Rushabh Trivedi - Software Developer
-## 👋 About Me
-Hi, I'm Rushabh, a Software Developer, passionate about crafting scalable web applications and diving into AI/ML innovation. I blend a unique problem-solving perspective with full-stack expertise. Currently, I’m working on a blockchain payment application (Paycio) using Express and Postgres, while actively seeking opportunities to transition into Python-based AI/ML roles. My experience in tech stack migration, ML implementation, and robust API development fuels my drive to create impactful, intelligent solutions. Always learning, I’m eager to grow through hands-on Python projects and cutting-edge AI challenges.
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Rushabh+Trivedi;Python+%26+MERN+Developer;Building+Scalable+Tech)](https://git.io/typing-svg)
+
+# Hi there, I'm Rushabh Trivedi! 👋
+
+**Python Backend & AI/ML Developer | MERN Expert**
+
+<p align="center">
+  <a href="https://rushabh-portfolio-iz62.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/trivedirushabh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rushabhtrivedi03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+I am a **Software Development Engineer** passionate about crafting scalable web architectures and intelligent AI solutions. With a background in high-throughput Fintech systems and AI document intelligence, **I am ready to engineer impactful solutions and tackle complex challenges.**
+
+</div>
+
+### 🚀 Highlights
+- ⚡ **Performance Obsessed:** Innovated an OCR method resulting in **1000x faster processing** for document intelligence.
+- 💳 **Fintech Architect:** Built scalable APIs for **Paycio** handling authentication, KYC, and multi-currency wallets across 20+ microservices.
+- 🤖 **AI Innovator:** Implemented **OpenAI CLIP** for fraud detection and **Gemini** for resume optimization.
 
 ---
 
@@ -68,7 +93,19 @@ Created multiple full-stack applications including:
 
 ---
 
-## 👨‍💻 Projects
+### 📄 JobSync AI Pro: Resume Optimizer
+[![GitHub Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rushabhT3/)
+
+A Full-stack AI resume optimizer to calculate ATS match scores and enhance job applications.
+*   **Tech:** Python, FastAPI, Gemini AI, SpaCy, Next.js, LiteLLM.
+*   **Key Feature:** Implemented PDF text extraction (pdfplumber) and interactive radar charts for candidate scoring.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/232c6027-bc8c-4cf1-b25d-dbffbc4fbd41" width="45%" alt="JobSync Dashboard" />
+    <img src="https://github.com/user-attachments/assets/34fa56cc-f3b3-4810-923a-e112fb928872" width="45%" alt="JobSync Analysis" />    
+</div>
+
+---
 
 ### 📧 Full Stack Mailbox Client Application
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushabhT3/mailBoxClientReact)
@@ -161,4 +198,4 @@ Connect with friends and family in real-time with this group chat application.
 
 - [@Rushabh Trivedi](https://github.com/rushabhT3)
 
-![Visitor Count](https://profile-counter.glitch.me/rushabhT3/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rushabhT3/count.svg
