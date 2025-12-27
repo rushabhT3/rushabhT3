@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Rushabh+Trivedi;Python+%26+MERN+Developer;Building+Scalable+Tech)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Rushabh+Trivedi;Python+%26+MERN+Developer;Building+Scalable+Tech)](https://git.io/typing-svg)
+
+</div>
 
 # Hi there, I'm Rushabh Trivedi! 👋
 
