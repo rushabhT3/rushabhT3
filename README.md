@@ -96,14 +96,22 @@ Created multiple full-stack applications including:
 ### 📄 JobSync AI Pro: Resume Optimizer
 [![GitHub Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rushabhT3/)
 
-A Full-stack AI resume optimizer to calculate ATS match scores and enhance job applications.
-*   **Tech:** Python, FastAPI, Gemini AI, SpaCy, Next.js, LiteLLM.
-*   **Key Feature:** Implemented PDF text extraction (pdfplumber) and interactive radar charts for candidate scoring.
+A Full-stack AI resume optimizer designed to calculate ATS match scores and provide actionable feedback to job seekers.
+
+**Key Features:**
+- **AI-Powered Analysis:** Utilizes **Gemini AI** and **SpaCy** NLP to calculate precise ATS match scores against job descriptions.
+- **Advanced Parsing:** Robust PDF text extraction and cleaning using **pdfplumber** and **PyPDF2**.
+- **Data Visualization:** Implemented interactive **Radar Charts** to visualize skill gaps between the resume and job requirements.
+- **Modern UI/UX:** Designed a responsive **Glassmorphic** frontend using **Next.js** and Tailwind CSS.
+- **Modular Backend:** Scalable Python backend architecture built with **FastAPI** and **LiteLLM** for flexible model integration.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/232c6027-bc8c-4cf1-b25d-dbffbc4fbd41" width="45%" alt="JobSync Dashboard" />
-    <img src="https://github.com/user-attachments/assets/34fa56cc-f3b3-4810-923a-e112fb928872" width="45%" alt="JobSync Analysis" />    
+    <!-- Top Row: 2 Images Side by Side -->
+    <img src="https://github.com/user-attachments/assets/fa1d5815-d25e-4037-811c-a2fd2eb1ecc1" width="45%" alt="JobSync Dashboard" />
+    <img src="https://github.com/user-attachments/assets/34fa56cc-f3b3-4810-923a-e112fb928872" width="45%" alt="JobSync Analysis" />
 </div>
+
+⚡ **Tech Stack:** Python, FastAPI, Gemini AI, SpaCy, Next.js, TypeScript, Tailwind CSS
 
 ---
 
