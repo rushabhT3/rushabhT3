@@ -49,7 +49,7 @@ I am a **Software Development Engineer** passionate about crafting scalable web 
 
 ## 1. Software Developer at (SDE) – Backend (Paycio and Indoex Applications)
 **Location:** Hyderabad, Telangana, India  
-**Duration:** June 2025 - Present  
+**Duration:** June 2025 - Nov 2025  
 
 Currently building and scaling backend systems for two live fintech platforms — **Paycio** (crypto-fiat payment gateway) and **Indoex** (digital asset trading platform):
 - Designed and developed 50+ high-throughput REST & WebSocket APIs using **Node.js, Express.js, TypeScript, and PostgreSQL**, powering authentication, KYC, multi-currency wallets, deposit/withdrawal flows, and fiat-crypto settlements.
