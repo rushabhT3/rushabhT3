@@ -125,7 +125,8 @@ A Full-stack AI resume optimizer designed to calculate ATS match scores and prov
 An innovative full-stack mailbox client application designed for efficient email management.
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <img src="https://github.com/rushabhT3/rushabhT3/assets/41021094/23e1698c-5bfe-47ca-858e-3076d6f0baae" alt="Full Stack Mailbox Client Application" width="48%">
+    <img src="https://github.com/user-attachments/assets/1ab31f39-1d1e-4192-9101-5d3fbcaf9b7b" alt="Full Stack Mailbox Client Application" width="48%">
+    <img src="https://github.com/user-attachments/assets/f682d711-6235-4b49-acf7-3cb9da8a8c44" alt="Full Stack Mailbox Client Application" width="48%">
 </div>
 
 **Key Features:**
