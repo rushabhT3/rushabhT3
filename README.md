@@ -189,6 +189,20 @@ A modern and responsive portfolio website showcasing my projects and skills.
 
 Connect with friends and family in real-time with this group chat application.
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Chat Interface
+<img src="https://github.com/user-attachments/assets/c7b973cf-0d07-4fc6-8d27-02a1aae51171" height="340" alt="Chat Interface 1" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<img src="https://github.com/user-attachments/assets/5543552f-dee5-4616-96f1-e4be9def6c3f" height="340" alt="Chat Interface 2" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+### Authentication Pages
+<img src="https://github.com/user-attachments/assets/5d47af32-a305-438d-a9d3-8fe068c3e0f7" height="340" alt="Login Page" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<img src="https://github.com/user-attachments/assets/7706b1e9-ec69-43cf-b06e-9c12dd177f89" height="340" alt="Sign Up Page" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+</div>
+
 **Key Features:**
 - Real-time messaging
 - Group creation functionality
@@ -199,13 +213,6 @@ Connect with friends and family in real-time with this group chat application.
 
 ⚡ **Tech Stack:** Express.js, MySQL, aws-sdk, Socket.io, bcrypt, cors, dotenv, multer, node-cron, pm2, sequelize
 
----
-
-## 📸 Screenshots
-
-![Group Chat](https://github.com/rushabhT3/rushabhT3/assets/41021094/4fe83714-1ccd-413c-944c-e31bf7888f28)
 
 
-## Author
-
-- [@Rushabh Trivedi](https://github.com/rushabhT3)
+## Made with ❤️ by [@Rushabh Trivedi](https://github.com/rushabhT3)
